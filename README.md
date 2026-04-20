@@ -5,7 +5,7 @@ Aye Theingi（エー ティンギ） です。
 ## 🌱 自己紹介
 
 ミャンマー出身で、日本でITエンジニアを目指して勉強しています。
-現在はプログラミングやWeb技術の基礎を中心に学習しており、将来的にはフロントエンドとバックエンドの両方に対応できるフルスタックエンジニアとして、日本で活躍することを目標にしています。
+現在はプログラミングやWeb技術の基礎を中心に学習しており、将来的にはフロントエンドとバックエンドの両方に対応できるフルスタックエンジニアになることを目指しています。
 ユーザーにとって使いやすいサービスを開発できるエンジニアになるため、日々スキルアップに取り組んでいます。
 
 ## 🎓 学歴
@@ -29,6 +29,16 @@ Aye Theingi（エー ティンギ） です。
 - Excel
 - Microsoft Word
 
+## 💼 プロジェクト
+
+### Welcome Myanmar - ミャンマー紹介サイト
+[![Welcome Myanmar Screenshot](https://ayeheingi.github.io/Myanmar/screenshot.png)](https://ayeheingi.github.io/Myanmar/)
+
+ミャンマーの観光地、文化、食べ物などを紹介するウェブサイト。HTML/CSSを使用して、ユーザーフレンドリーなインターフェースを実装しました。
+
+**技術スタック:** HTML, CSS  
+**リンク:** [https://ayeheingi.github.io/Myanmar/](https://ayeheingi.github.io/Myanmar/)
+
 ## 🎨 趣味
 
 - 読書
@@ -40,8 +50,5 @@ Aye Theingi（エー ティンギ） です。
 今後は、フロントエンドとバックエンドの知識をさらに深め、実際に動くWebアプリケーションを開発できるスキルを身につけたいと考えています。
 また、フレームワークやデータベースの理解を深め、実践的な開発力を高めていきたいです。
 
-###
-https://ayeheingi.github.io/Myanmar/
-
-## 連絡先
-📧w25002@gmail.com
+## 連絡先  
+📧 w25002@gmail.com
