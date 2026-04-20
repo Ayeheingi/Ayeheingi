@@ -43,4 +43,4 @@ Aye Theingi（エー ティンギ） です。
 ## 連絡先
 📧w25002@gmail.com
 ###
-http://127.0.0.1:5501/travel/index.html
+[http://127.0.0.1:5501/travel/index.html](https://ayeheingi.github.io/Myanmar/)
