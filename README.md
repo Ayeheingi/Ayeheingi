@@ -32,7 +32,7 @@ Aye Theingi（エー ティンギ） です。
 ## 💼 プロジェクト
 
 ### Welcome Myanmar - ミャンマー紹介サイト
-[![Welcome Myanmar Screenshot](https://ayeheingi.github.io/Myanmar/screenshot.png)](https://ayeheingi.github.io/Myanmar/)
+(https://ayeheingi.github.io/Myanmar/screenshot.png)](https://ayeheingi.github.io/Myanmar/)
 
 ミャンマーの観光地、文化、食べ物などを紹介するウェブサイト。HTML/CSSを使用して、ユーザーフレンドリーなインターフェースを実装しました。
 
